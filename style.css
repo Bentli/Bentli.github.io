@@ -1,0 +1,56 @@
+
+.inf1 {
+	border-style: groove;
+	border-width: 2px;
+	border-color: blue;
+	width: 300px;
+	background-color: #FFEEC2;
+	color: black;
+	text-align: center;
+}
+/*
+#bttnimg {
+	float: left;
+	position: absolute;
+	left: 62%;
+	top: 25%;
+	max-width: 750px;
+}
+
+.withimg {
+  	width: 100%;
+  	overflow:hidden;
+  	padding: 0px;
+  	margin: 0px;
+ }
+
+ #discover{
+  	position: relative;  
+ }
+*/
+.withimg {
+  	width: 100%;
+  	overflow:hidden;
+  	padding: 0px;
+ 	margin: 0px;
+ }
+
+ #discover {
+ 	position: relative;  
+ }
+
+#bttnimg {
+	float: center;
+	position: absolute;
+	left: 38%;
+	top: 77%;	
+}
+
+#txt1 {
+	float: center;
+	position: absolute;
+	left: 52%;
+	top: 25%;
+	font-family: georgia;
+	font-size: 20px;	
+}
